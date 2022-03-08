@@ -1,0 +1,14 @@
+------------------------------------------------------------------------------------------------------------------------------
+HotFix Change Log
+------------------------------------------------------------------------------------------------------------------------------
+//changelog version 0.85 v2 Hotfixes and Features Published 2022/3/8
+Module:
+-added: Territory Check Function from Discord - Credits: Gramps
+-added: Scheduled Restart Timer Check *Default Set to 4 Hours Restart in missionsettings.c*
+
+Server files:
+-added: Fix for SparkPlug on Ganja Mission
+-added: Territory Check Function to EWD
+-added: Restart Check to each Mission
+
+-------------------------------------------------------------------------------------------------------------------------
